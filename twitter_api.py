@@ -1,0 +1,3 @@
+api_key = 'qkqNVgABDfX1zstZeoFlUzpyQ'
+api_secret_key = '6e3WCd4pyjTyUvmKv6C8JEfsSWfIhE4vk0ktA0eE1Xc8lK9EAw'
+bearer_token = 'AAAAAAAAAAAAAAAAAAAAAKChOgEAAAAAoPNvWDVwE1eYmLTXigdTndEKOIY%3DZ1occW2m0hqeMjG1Mio79zl3eP5oltxHQtgxHxpQzd98AbzIrz'
